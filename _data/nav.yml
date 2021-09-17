@@ -15,7 +15,7 @@ footer:
   - owner: "Your Name"
     url: # link if any
     description: # tool tip for your url
-    bio: "I am awesome" # short bio
+    bio: "I am awesome test" # short bio
     address: # location
   - social:
     - label: "GitHub"
